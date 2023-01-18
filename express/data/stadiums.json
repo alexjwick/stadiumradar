@@ -1,0 +1,210 @@
+{
+    "stadiums": [
+        {
+            "name": "American Airlines Center",
+            "city": "Dallas, Texas",
+            "latitude": 32.7904,
+            "longitude": -96.8103,
+            "teams": [
+                "Dallas Mavericks",
+                "Dallas Stars"
+            ]
+        },
+        {
+            "name": "Amway Center",
+            "city": "Orlando, Florida",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "AT&T Center",
+            "city": "San Antonio, Texas",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Ball Area",
+            "city": "Denver, Colorado",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Barclays Center",
+            "city": "Brooklyn, New York",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Capital One Area",
+            "city": "Washington, D.C.",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Chase Center",
+            "city": "San Francisco, California",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Crypto.com Arena",
+            "city": "Los Angeles, California",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "FedExForum",
+            "city": "Memphis, Tennessee",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Fiserv Forum",
+            "city": "Milwaukee, Wisconsin",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Footprint Center",
+            "city": "Phoenix, Arizona",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Gainbridge Fieldhouse",
+            "city": "Indinapolis, Indiana",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Golden 1 Center",
+            "city": "Sacramento, California",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Little Caesars Arena",
+            "city": "Detroit, Michigan",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Madison Square Garden",
+            "city": "New York City, New York",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Miami-Dade Arena",
+            "city": "Miami, Florida",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Moda Center",
+            "city": "Portland, Oregon",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Paycom Center",
+            "city": "Oklahoma City, Oklahoma",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Rocket Mortgage FieldHouse",
+            "city": "Cleveland, Ohio",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Scotiabank Area",
+            "city": "Toronto, Ontario",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Smoothie King Center",
+            "city": "New Orleans, Louisiana",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Spectrum Center",
+            "city": "Charlotte, North Carolina",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "State Farm Arena",
+            "city": "Atlanta, Georgia",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Target Center",
+            "city": "Minneapolis, Minnesota",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "TD Garden",
+            "city": "Boston, Massachusetts",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Toyota Center",
+            "city": "Houston, Texas",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "United Center",
+            "city": "Chicago, Illinois",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Vivint Arena",
+            "city": "Salt Lake City, Utah",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        },
+        {
+            "name": "Wells Fargo Center",
+            "city": "Philadelphia, Pennsylvania",
+            "latitude": 0,
+            "longitude": 0,
+            "teams": []
+        }
+    ]
+}
