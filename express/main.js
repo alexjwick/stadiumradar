@@ -8,6 +8,17 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+fetch('/stadiums')
+  .then(response => response.json())
+  .then(stadiums => {
+    console.log(stadiums);
+    stadiums.forEach(stadium => {
+      L.marker([stadium.latitude, stadium.longitude]).addTo(map)
+        .bindPopup(stadium.name);
+    });
+  });
+
+/*
 fetch('./data/stadiums.json')
     .then((response) => response.json())
     .then((data) => addToMap(data.stadiums));
@@ -26,3 +37,4 @@ function addToMap(stadiumData) {
         var marker = L.marker([latitude, longitude]).addTo(map);
     }
 }
+*/
